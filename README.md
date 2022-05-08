@@ -11,7 +11,7 @@ Also [this is a pool noodle](https://en.wikipedia.org/wiki/Pool_noodle) for refe
 ## Vision
 Originally the vision had been to implement Kinect functionality into unity to track a pool noodle, to give developers a new tool for soft body tracking and simulation and an interesting game to demonstrate it, however issues with getting it working, and rending it in the correct world space with the VR Headset, as Kinect is specialised for relatively 2D type games.
 
-So now the program sttempts to simulate the noodle's physics and is tracked using the controller's own drivers. And due to the time wasted on kinect development and other projects it has been downsized to an easy simple tennis ball smacker, deflect the balls to earn points and extra time, the game ends when you run out of time.
+So now the program attempts to simulate the noodle's physics and is tracked using the controller's own drivers. And due to the time wasted on kinect development and other projects it has been downsized to an easy simple tennis ball smacker, deflect the balls to earn points and extra time, the game ends when you run out of time.
 
 ## Installation and setup
 ### Setting up the program
@@ -34,10 +34,12 @@ So now the program sttempts to simulate the noodle's physics and is tracked usin
 
 ![Unity spectator cam instructions](https://cdn.discordapp.com/attachments/347089516055494658/972883860926906418/Spectator_cam_instructions.PNG)
 ### Setting up the controller
-1. Optain some tape, or better yet, some velcro cable managment ties
-2. Attatch the cable ties like so, try to have one go just behind the trigger so the bulge aids in holding it steady, but don't go too far back as it will press down on the menu button constantly. Also putting the wrist straps around the pool noodle will help prevent it sliding off in an emergency.
+1. Optain some tape, or better yet, some velcro cable managment ties and a 1 metre long hollow foam cylinder, either a cut down pool noodle or some pipe insulation will do
+3. Attatch the cable ties like so, try to have one go just behind the trigger so the bulge aids in holding it steady, but don't go too far back as it will press down on the menu button constantly. Also putting the wrist straps around the pool noodle will help prevent it sliding off in an emergency.
 
 ![Controller attatchment instructions](https://cdn.discordapp.com/attachments/347089516055494658/972884260048498729/IMG_20220508_154917.jpg)
+
+The tape is placed to help indicate a place for the controller as well as to provide strength, as these pieces of pipe insulation, you may have to do the same with yours if it has these pre-cut lines.
 
 ## Contact
 Find a bug you can use the issues tab, but if that doesn't work then I can be reached at zacharycummings80@gmail.com
