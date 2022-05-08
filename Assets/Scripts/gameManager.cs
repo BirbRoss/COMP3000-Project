@@ -14,6 +14,7 @@ public class gameManager : MonoBehaviour
 
     [Header("Ending the Game")]
     [SerializeField] Canvas endCanvas;
+    bool gameEnded = false;
 
     [Header("Scoring")]
     [SerializeField] float scorePer = 1.0f;
@@ -32,6 +33,8 @@ public class gameManager : MonoBehaviour
         controllerRay.SetActive(false);
         startCanvas.enabled = !startCanvas.enabled;
         timerTicking = false;
+
+        gameEnded = false;
     }
 
     //Adds points to the score when called and an extra second of time
@@ -39,8 +42,11 @@ public class gameManager : MonoBehaviour
     {
         //Adds more score for difficulty
         score = score++ + (shooter.difficulty / 2);
-        timeLeft++;
 
+        if (!gameEnded)
+        {
+            timeLeft++;
+        }
         //updates score & time text boxes
         for (int i = 0; i < scoreBoxes.Length; i++)
         {
@@ -62,6 +68,7 @@ public class gameManager : MonoBehaviour
     //Enables the end text, reset button & enables the pointer ray
     void endGame()
     {
+        gameEnded = true;
         shooter.enabled = !shooter.enabled;
         controllerRay.SetActive(true);
         endCanvas.enabled = !endCanvas.enabled;
