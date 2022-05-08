@@ -35,7 +35,7 @@ So now the program attempts to simulate the noodle's physics and is tracked usin
 ![Unity spectator cam instructions](https://cdn.discordapp.com/attachments/347089516055494658/972883860926906418/Spectator_cam_instructions.PNG)
 ### Setting up the controller
 1. Optain some tape, or better yet, some velcro cable managment ties and a 1 metre long hollow foam cylinder, either a cut down pool noodle or some pipe insulation will do
-3. Attatch the cable ties like so, try to have one go just behind the trigger so the bulge aids in holding it steady, but don't go too far back as it will press down on the menu button constantly. Also putting the wrist straps around the pool noodle will help prevent it sliding off in an emergency.
+3. Attatch the cable ties like so **_to the right controller_**, try to have one go just behind the trigger so the bulge aids in holding it steady, but don't go too far back as it will press down on the menu button constantly. Also putting the wrist straps around the pool noodle will help prevent it sliding off in an emergency.
 
 ![Controller attatchment instructions](https://cdn.discordapp.com/attachments/347089516055494658/972884260048498729/IMG_20220508_154917.jpg)
 
