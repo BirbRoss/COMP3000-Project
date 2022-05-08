@@ -1,4 +1,4 @@
-# Noodler
+![Noodler Logo](https://cdn.discordapp.com/attachments/347089516055494658/972891628731781262/Noodler_logo.png)
 ### Supervised by James Hayter
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)  [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 
