@@ -28,9 +28,9 @@ So now the program attempts to simulate the noodle's physics and is tracked usin
 
 ![Unity instruction image](https://cdn.discordapp.com/attachments/347089516055494658/972882492384239706/Instructions.PNG)
 
-5.Hit play and the game will start in the headset
+5. Hit play and the game will start in the headset
   
-  5a. If your computer is powerful enough you can re-enable the spectator camera and split the explorer into display1 and display2 to show a different angle whilst the game is output to the headset, like below:
+      5a. If your computer is powerful enough you can re-enable the spectator camera and split the explorer into display1 and display2 to show a different angle whilst       the game is output to the headset, like below:
 
 ![Unity spectator cam instructions](https://cdn.discordapp.com/attachments/347089516055494658/972883860926906418/Spectator_cam_instructions.PNG)
 ### Setting up the controller
