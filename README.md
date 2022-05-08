@@ -4,7 +4,7 @@
 
 [Trello link](https://trello.com/b/rg7rnQ0O/comp-3000)
 
-Youtube video link
+[Youtube video link](https://youtu.be/oI5ElCPuYG0)
 
 Also [this is a pool noodle](https://en.wikipedia.org/wiki/Pool_noodle) for reference, though in my own implementation I used pipe insulation with electrical tape surrounding it 
 
