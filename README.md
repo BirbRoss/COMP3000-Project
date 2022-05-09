@@ -50,7 +50,7 @@ Find a bug you can use the issues tab, but if that doesn't work then I can be re
 And if you like what you see for some reason then my [linkedIn is here](https://www.linkedin.com/in/zcummings)
 
 ## Licencing
-Due to me adding a kinect package to the project, and me being unable to remove it without destroying everything, the Game is under an: [MIT License](https://github.com/BirbRoss/COMP3000-Project/blob/main/KINECT%20LICENSE)
+Due to me adding a kinect package to the project, and me being unable to remove it without destroying everything, the Game is under an: [MIT License](https://github.com/BirbRoss/COMP3000-Project/blob/main/KINECT%20LICENSE) & thanks to the roboto font I am including the [Apache 2.0 License](https://github.com/BirbRoss/COMP3000-Project/blob/main/ROBOTO%20FONT%20LICENSE.txt) too
 
 
 As for the noodle prefab and model, those are kinect code free so use as you please under a: [GNU GENERAL PUBLIC LICENSE](https://github.com/BirbRoss/COMP3000-Project/blob/main/NOODLE%20PREFAB%20LICENSE)
