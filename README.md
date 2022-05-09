@@ -41,6 +41,10 @@ So now the program attempts to simulate the noodle's physics and is tracked usin
 
 The tape is placed to help indicate a place for the controller as well as to provide strength, as these pieces of pipe insulation, you may have to do the same with yours if it has these pre-cut lines.
 
+### Installing the prefab
+1. Download both the prefab and model/fbx files
+2. Drag and drop them into your unity project
+
 ## Contact
 Find a bug you can use the issues tab, but if that doesn't work then I can be reached at zacharycummings80@gmail.com
 And if you like what you see for some reason then my [linkedIn is here](https://www.linkedin.com/in/zcummings)
