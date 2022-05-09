@@ -49,5 +49,13 @@ The tape is placed to help indicate a place for the controller as well as to pro
 Find a bug you can use the issues tab, but if that doesn't work then I can be reached at zacharycummings80@gmail.com
 And if you like what you see for some reason then my [linkedIn is here](https://www.linkedin.com/in/zcummings)
 
+## Licencing
+Due to me adding a kinect package to the project, and me being unable to remove it without destroying everything, the Game is under an:   
+[MIT License](https://github.com/BirbRoss/COMP3000-Project/blob/main/KINECT%20LICENSE)
+As it is technically a copy of their code.
+
+As for the noodle prefab and model, those are kinect code free so use as you please under a: 
+[GNU GENERAL PUBLIC LICENSE](https://github.com/BirbRoss/COMP3000-Project/blob/main/NOODLE%20PREFAB%20LICENSE)
+
 ### Keywords
 Foam pool noodle | Virtual reality | VR 
