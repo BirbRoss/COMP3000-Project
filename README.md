@@ -56,6 +56,7 @@ Due to me adding a kinect package to the project, and me being unable to remove 
 As it is technically a copy of their code.
 
 As for the noodle prefab and model, those are kinect code free so use as you please under a: 
+
 [GNU GENERAL PUBLIC LICENSE](https://github.com/BirbRoss/COMP3000-Project/blob/main/NOODLE%20PREFAB%20LICENSE)
 
 ### Keywords
